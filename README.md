@@ -4,13 +4,13 @@ If you like some stuff you see here, feel free to send me some sats:
 
 ## LN ⚡
 
-![ln](https://github.com/uunicorn/uunicorn/assets/9938451/8142be00-8edc-4760-93c2-6ea565387281)
+<img src="https://github.com/uunicorn/uunicorn/assets/9938451/8142be00-8edc-4760-93c2-6ea565387281" width="256">
 
 uunicorn@lnbits.cz
 
 ## on-chain ₿
 
-![on-chain](https://github.com/uunicorn/uunicorn/assets/9938451/6d967810-fe0d-4643-be33-0f4069fb8ae7)
+<img src="https://github.com/uunicorn/uunicorn/assets/9938451/6d967810-fe0d-4643-be33-0f4069fb8ae7" width="256">
 
 bc1q96vv5plhah29p9wtykwgj26lkw65yyw9jcrh6u
 
